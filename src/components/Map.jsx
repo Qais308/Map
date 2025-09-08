@@ -142,7 +142,7 @@ export default function Map() {
         <MapContainer
           center={defaultCenter}
           zoom={defaultZoom}
-          className="h-[400px] w-[800px]"
+          className="h-[400px] w-[700px]"
         >
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>'
